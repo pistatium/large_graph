@@ -1,9 +1,12 @@
 # LargeGraph Extension
-GoogleChrome Plugin to increase graph size of GoogleAnalytics.
+(WIP)GoogleChrome Plugin to increase graph size of GoogleAnalytics.
+
 
 __before__  
-![before](https://raw.githubusercontent.com/pistatium/large_graph/master/meta/after.png)
+![before](https://raw.githubusercontent.com/pistatium/large_graph/master/meta/before.png)
 
 
 __after__  
-![after](https://https://raw.githubusercontent.com/pistatium/large_graph/master/meta/after.png)
+![after](https://raw.githubusercontent.com/pistatium/large_graph/master/meta/after.png)
+
+
